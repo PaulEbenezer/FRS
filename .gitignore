@@ -1,0 +1,16 @@
+*.class
+*.log
+.DS_Store
+Desktop.ini
+._*
+.Spotlight-V100
+.Trashes
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+hs_err_pid*
+.gradletasknamecache
+*.iws
